@@ -1,0 +1,923 @@
+{
+    "0": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "400323871",
+                    "name": "Фен Dreame Pocket AHD51 Space Gray",
+                    "nameTranslit": "fen-dreame-pocket-ahd51-space-gray",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400323871",
+                    "materialSource": "ERP",
+                    "modelName": "AHD51 Gray",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 50,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400323871b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400323871.jpg",
+                        "Pdb/400323871b.jpg",
+                        "Pdb/400323871b1.jpg",
+                        "Pdb/400323871b10.jpg",
+                        "Pdb/400323871b11.jpg",
+                        "Pdb/400323871b12.jpg",
+                        "Pdb/400323871b13.jpg",
+                        "Pdb/400323871b14.jpg",
+                        "Pdb/400323871b2.jpg",
+                        "Pdb/400323871b3.jpg",
+                        "Pdb/400323871b4.jpg",
+                        "Pdb/400323871b5.jpg",
+                        "Pdb/400323871b6.jpg",
+                        "Pdb/400323871b7.jpg",
+                        "Pdb/400323871b8.jpg",
+                        "Pdb/400323871b9.jpg",
+                        "Pdb/400323871s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 624586,
+                            "name": "Тип мотора",
+                            "value": "BLDC (ЕС)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 373,
+                            "name": "Количество насадок",
+                            "value": "2",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 10,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "термопластик",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400219218",
+                    "name": "Фен Dreame Hair Glory AHD6A-WH White",
+                    "nameTranslit": "fen-dreame-hair-glory-ahd6a-wh-white",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400219218",
+                    "materialSource": "ERP",
+                    "modelName": "Hair Glory White",
+                    "rating": {
+                        "star": 4.8,
+                        "count": 41,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400219218b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400219218.jpg",
+                        "Pdb/400219218b.jpg",
+                        "Pdb/400219218b1.jpg",
+                        "Pdb/400219218b10.jpg",
+                        "Pdb/400219218b11.jpg",
+                        "Pdb/400219218b12.jpg",
+                        "Pdb/400219218b13.jpg",
+                        "Pdb/400219218b14.jpg",
+                        "Pdb/400219218b15.jpg",
+                        "Pdb/400219218b3.jpg",
+                        "Pdb/400219218b4.jpg",
+                        "Pdb/400219218b5.jpg",
+                        "Pdb/400219218b6.jpg",
+                        "Pdb/400219218b7.jpg",
+                        "Pdb/400219218b8.jpg",
+                        "Pdb/400219218b9.jpg",
+                        "Pdb/400219218s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 403,
+                            "name": "Съемная защитная решетка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400323884",
+                    "name": "Фен Dreame Pocket AHD51 Titanium Gold",
+                    "nameTranslit": "fen-dreame-pocket-ahd51-titanium-gold",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400323884",
+                    "materialSource": "ERP",
+                    "modelName": "AHD51 Titanium",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 71,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400323884b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400323884.jpg",
+                        "Pdb/400323884b.jpg",
+                        "Pdb/400323884b1.jpg",
+                        "Pdb/400323884b10.jpg",
+                        "Pdb/400323884b11.jpg",
+                        "Pdb/400323884b12.jpg",
+                        "Pdb/400323884b13.jpg",
+                        "Pdb/400323884b2.jpg",
+                        "Pdb/400323884b3.jpg",
+                        "Pdb/400323884b4.jpg",
+                        "Pdb/400323884b5.jpg",
+                        "Pdb/400323884b6.jpg",
+                        "Pdb/400323884b7.jpg",
+                        "Pdb/400323884b8.jpg",
+                        "Pdb/400323884b9.jpg",
+                        "Pdb/400323884s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 624586,
+                            "name": "Тип мотора",
+                            "value": "BLDC (ЕС)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 373,
+                            "name": "Количество насадок",
+                            "value": "2",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 10,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "термопластик",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400218821",
+                    "name": "Фен Dreame Hairdryer Glory (AHD6A-RS), розовое золото",
+                    "nameTranslit": "fen-dreame-hairdryer-glory-ahd6a-rs-rozovoe-zoloto",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400218821",
+                    "materialSource": "ERP",
+                    "modelName": "AHD6A-RS Rose gold",
+                    "rating": {
+                        "star": 4.8,
+                        "count": 39,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400218821b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400218821.jpg",
+                        "Pdb/400218821b.jpg",
+                        "Pdb/400218821b1.jpg",
+                        "Pdb/400218821b10.jpg",
+                        "Pdb/400218821b11.jpg",
+                        "Pdb/400218821b12.jpg",
+                        "Pdb/400218821b13.jpg",
+                        "Pdb/400218821b14.jpg",
+                        "Pdb/400218821b15.jpg",
+                        "Pdb/400218821b2.jpg",
+                        "Pdb/400218821b3.jpg",
+                        "Pdb/400218821b4.jpg",
+                        "Pdb/400218821b5.jpg",
+                        "Pdb/400218821b6.jpg",
+                        "Pdb/400218821b7.jpg",
+                        "Pdb/400218821b8.jpg",
+                        "Pdb/400218821b9.jpg",
+                        "Pdb/400218821s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 403,
+                            "name": "Съемная защитная решетка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400218528",
+                    "name": "Фен Dreame Hair Gleam AHD12A White",
+                    "nameTranslit": "fen-dreame-hair-gleam-ahd12a-white",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400218528",
+                    "materialSource": "ERP",
+                    "modelName": "AHD12A White",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 161,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400218528b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400218528.jpg",
+                        "Pdb/400218528b.jpg",
+                        "Pdb/400218528b1.jpg",
+                        "Pdb/400218528b10.jpg",
+                        "Pdb/400218528b11.jpg",
+                        "Pdb/400218528b12.jpg",
+                        "Pdb/400218528b13.jpg",
+                        "Pdb/400218528b14.jpg",
+                        "Pdb/400218528b2.jpg",
+                        "Pdb/400218528b3.jpg",
+                        "Pdb/400218528b4.jpg",
+                        "Pdb/400218528b5.jpg",
+                        "Pdb/400218528b6.jpg",
+                        "Pdb/400218528b7.jpg",
+                        "Pdb/400218528b8.jpg",
+                        "Pdb/400218528b9.jpg",
+                        "Pdb/400218528s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 403,
+                            "name": "Съемная защитная решетка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400223776",
+                    "name": "Фен Dreame Hair Gleam AHD12A Lilac",
+                    "nameTranslit": "fen-dreame-hair-gleam-ahd12a-lilac",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400223776",
+                    "materialSource": "ERP",
+                    "modelName": "AHD12A Violet",
+                    "rating": {
+                        "star": 4.8,
+                        "count": 65,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400223776b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400223776.jpg",
+                        "Pdb/400223776b.jpg",
+                        "Pdb/400223776b1.jpg",
+                        "Pdb/400223776b10.jpg",
+                        "Pdb/400223776b11.jpg",
+                        "Pdb/400223776b12.jpg",
+                        "Pdb/400223776b13.jpg",
+                        "Pdb/400223776b14.jpg",
+                        "Pdb/400223776b2.jpg",
+                        "Pdb/400223776b3.jpg",
+                        "Pdb/400223776b4.jpg",
+                        "Pdb/400223776b5.jpg",
+                        "Pdb/400223776b6.jpg",
+                        "Pdb/400223776b7.jpg",
+                        "Pdb/400223776b8.jpg",
+                        "Pdb/400223776b9.jpg",
+                        "Pdb/400223776s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 403,
+                            "name": "Съемная защитная решетка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400218458",
+                    "name": "Фен Dreame Hair Gleam AHD12A Pink",
+                    "nameTranslit": "fen-dreame-hair-gleam-ahd12a-pink",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400218458",
+                    "materialSource": "ERP",
+                    "modelName": "AHD12A Pink",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 70,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400218458b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400218458.jpg",
+                        "Pdb/400218458b.jpg",
+                        "Pdb/400218458b1.jpg",
+                        "Pdb/400218458b10.jpg",
+                        "Pdb/400218458b11.jpg",
+                        "Pdb/400218458b12.jpg",
+                        "Pdb/400218458b13.jpg",
+                        "Pdb/400218458b14.jpg",
+                        "Pdb/400218458b2.jpg",
+                        "Pdb/400218458b3.jpg",
+                        "Pdb/400218458b4.jpg",
+                        "Pdb/400218458b5.jpg",
+                        "Pdb/400218458b6.jpg",
+                        "Pdb/400218458b7.jpg",
+                        "Pdb/400218458b8.jpg",
+                        "Pdb/400218458b9.jpg",
+                        "Pdb/400218458s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 403,
+                            "name": "Съемная защитная решетка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 12,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400268991",
+                    "name": "Фен Dreame Hair Miracle AHD9 Gold",
+                    "nameTranslit": "fen-dreame-hair-miracle-ahd9-gold",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400268991",
+                    "materialSource": "ERP",
+                    "modelName": "AHD9 Gold",
+                    "rating": {
+                        "star": 4.7,
+                        "count": 25,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400268991b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400268991.jpg",
+                        "Pdb/400268991b.jpg",
+                        "Pdb/400268991b1.jpg",
+                        "Pdb/400268991b10.jpg",
+                        "Pdb/400268991b11.jpg",
+                        "Pdb/400268991b12.jpg",
+                        "Pdb/400268991b13.jpg",
+                        "Pdb/400268991b14.jpg",
+                        "Pdb/400268991b2.jpg",
+                        "Pdb/400268991b3.jpg",
+                        "Pdb/400268991b4.jpg",
+                        "Pdb/400268991b5.jpg",
+                        "Pdb/400268991b6.jpg",
+                        "Pdb/400268991b7.jpg",
+                        "Pdb/400268991b8.jpg",
+                        "Pdb/400268991b9.jpg",
+                        "Pdb/400268991s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 623763,
+                            "name": "Тип мотора",
+                            "value": "BLDC (ЕС)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "4 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 401,
+                            "name": "Диффузор",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400248189",
+                    "name": "Фен Dreame Hair Glory Master AHD10 Green ",
+                    "nameTranslit": "fen-dreame-hair-glory-master-ahd10-green",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400248189",
+                    "materialSource": "ERP",
+                    "modelName": "Hair Glory Master Green AHD10",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 24,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400248189b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400248189.jpg",
+                        "Pdb/400248189b.jpg",
+                        "Pdb/400248189b1.jpg",
+                        "Pdb/400248189b10.jpg",
+                        "Pdb/400248189b2.jpg",
+                        "Pdb/400248189b3.jpg",
+                        "Pdb/400248189b4.jpg",
+                        "Pdb/400248189b5.jpg",
+                        "Pdb/400248189b6.jpg",
+                        "Pdb/400248189b7.jpg",
+                        "Pdb/400248189b9.jpg",
+                        "Pdb/400248189s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 404,
+                            "name": "Регулировка воздушного потока",
+                            "value": "2 режима",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 401,
+                            "name": "Диффузор",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "пластик",
+                            "nameDescription": null,
+                            "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
