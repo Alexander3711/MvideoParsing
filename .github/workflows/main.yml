@@ -5,6 +5,8 @@ on:
     # Запускается каждый день в 03:00 UTC (6 утра по МСК)
     - cron: '0 3 * * *'
   workflow_dispatch: # Позволяет запускать вручную со страницы Actions
+permissions:
+  contents: write  
 
 jobs:
   update-data:
