@@ -1684,7 +1684,7 @@
             "modelName": "X50 Master (RLX86CE-1)",
             "rating": {
                 "star": 5,
-                "count": 10,
+                "count": 12,
                 "percent": null
             },
             "supplier": null,
@@ -1996,9 +1996,9 @@
                     "measure": "л"
                 }
             ],
-            "item_basePrice": 49199,
-            "item_salePrice": 49199,
-            "item_bonus": 1476,
+            "item_basePrice": 47799,
+            "item_salePrice": 47799,
+            "item_bonus": 1434,
             "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-bot-l10s-plus-white-400353518",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
@@ -2755,5 +2755,5 @@
             "category_name": "roboty-pylesosy"
         }
     ],
-    "generated_at": "2025-07-24T10:28:54.600343"
+    "generated_at": "2025-07-25T03:57:58.769803"
 }
