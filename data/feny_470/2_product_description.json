@@ -107,6 +107,107 @@
                     ]
                 },
                 {
+                    "productId": "400323884",
+                    "name": "Фен Dreame Pocket AHD51 Titanium Gold",
+                    "nameTranslit": "fen-dreame-pocket-ahd51-titanium-gold",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400323884",
+                    "materialSource": "ERP",
+                    "modelName": "AHD51 Titanium",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 71,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400323884b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "470",
+                        "name": "Фены"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400323884.jpg",
+                        "Pdb/400323884b.jpg",
+                        "Pdb/400323884b1.jpg",
+                        "Pdb/400323884b10.jpg",
+                        "Pdb/400323884b11.jpg",
+                        "Pdb/400323884b12.jpg",
+                        "Pdb/400323884b13.jpg",
+                        "Pdb/400323884b2.jpg",
+                        "Pdb/400323884b3.jpg",
+                        "Pdb/400323884b4.jpg",
+                        "Pdb/400323884b5.jpg",
+                        "Pdb/400323884b6.jpg",
+                        "Pdb/400323884b7.jpg",
+                        "Pdb/400323884b8.jpg",
+                        "Pdb/400323884b9.jpg",
+                        "Pdb/400323884s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 624586,
+                            "name": "Тип мотора",
+                            "value": "BLDC (ЕС)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 224,
+                            "name": "Длина сетевого шнура",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "м"
+                        },
+                        {
+                            "id": 3390,
+                            "name": "Количество температурных режимов",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 373,
+                            "name": "Количество насадок",
+                            "value": "2",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 10,
+                            "measure": null
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "термопластик",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
                     "productId": "400219218",
                     "name": "Фен Dreame Hair Glory AHD6A-WH White",
                     "nameTranslit": "fen-dreame-hair-glory-ahd6a-wh-white",
@@ -203,107 +304,6 @@
                             "value": "пластик",
                             "nameDescription": null,
                             "valueDescription": "Прочный, гигиеничный материал, рассчитанный на длительную эксплуатацию и не требующий сложного ухода.",
-                            "priority": 13,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "400323884",
-                    "name": "Фен Dreame Pocket AHD51 Titanium Gold",
-                    "nameTranslit": "fen-dreame-pocket-ahd51-titanium-gold",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400323884",
-                    "materialSource": "ERP",
-                    "modelName": "AHD51 Titanium",
-                    "rating": {
-                        "star": 4.75,
-                        "count": 71,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400323884b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "470",
-                        "name": "Фены"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400323884.jpg",
-                        "Pdb/400323884b.jpg",
-                        "Pdb/400323884b1.jpg",
-                        "Pdb/400323884b10.jpg",
-                        "Pdb/400323884b11.jpg",
-                        "Pdb/400323884b12.jpg",
-                        "Pdb/400323884b13.jpg",
-                        "Pdb/400323884b2.jpg",
-                        "Pdb/400323884b3.jpg",
-                        "Pdb/400323884b4.jpg",
-                        "Pdb/400323884b5.jpg",
-                        "Pdb/400323884b6.jpg",
-                        "Pdb/400323884b7.jpg",
-                        "Pdb/400323884b8.jpg",
-                        "Pdb/400323884b9.jpg",
-                        "Pdb/400323884s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 624586,
-                            "name": "Тип мотора",
-                            "value": "BLDC (ЕС)",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 224,
-                            "name": "Длина сетевого шнура",
-                            "value": "1.5",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 6,
-                            "measure": "м"
-                        },
-                        {
-                            "id": 3390,
-                            "name": "Количество температурных режимов",
-                            "value": "4",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 9,
-                            "measure": null
-                        },
-                        {
-                            "id": 373,
-                            "name": "Количество насадок",
-                            "value": "2",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 10,
-                            "measure": null
-                        },
-                        {
-                            "id": 83,
-                            "name": "Материал корпуса",
-                            "value": "термопластик",
-                            "nameDescription": null,
-                            "valueDescription": null,
                             "priority": 13,
                             "measure": null
                         }

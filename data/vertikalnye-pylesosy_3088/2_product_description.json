@@ -306,6 +306,99 @@
                     ]
                 },
                 {
+                    "productId": "400455255",
+                    "name": "Пылесос ручной (handstick) Dreame T30 (VTT1)",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-t30-vtt1",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400455255",
+                    "materialSource": "ERP",
+                    "modelName": "T30 (VTT1)",
+                    "rating": {
+                        "star": 4,
+                        "count": 3,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400455255b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400455255.jpg",
+                        "Pdb/400455255b.jpg",
+                        "Pdb/400455255b1.jpg",
+                        "Pdb/400455255b101.jpg",
+                        "Pdb/400455255b2.jpg",
+                        "Pdb/400455255b3.jpg",
+                        "Pdb/400455255b4.jpg",
+                        "Pdb/400455255s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 649,
+                            "name": "Максимальная мощность всасывания",
+                            "value": "190",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "Вт"
+                        },
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "90",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.6",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "2",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 4769,
+                            "name": "Подсветка зоны уборки",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
                     "productId": "400457770",
                     "name": "Пылесос ручной (handstick) моющий Dreame Wet&Dry Cordless Vacuum Cleaner G10 Pro (HHR20A)",
                     "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wetdry-cordless-vacuum-cleaner-g10-pro-hhr20a",
@@ -408,6 +501,101 @@
                     ]
                 },
                 {
+                    "productId": "400155457",
+                    "name": "Пылесос ручной (handstick) Dreame R10 Pro Black",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-black",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400155457",
+                    "materialSource": "ERP",
+                    "modelName": "R10 Pro",
+                    "rating": {
+                        "star": 4.85,
+                        "count": 183,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400155457b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400155457.jpg",
+                        "Pdb/400155457b.jpg",
+                        "Pdb/400155457b1.jpg",
+                        "Pdb/400155457b101.jpg",
+                        "Pdb/400155457b2.jpg",
+                        "Pdb/400155457b3.jpg",
+                        "Pdb/400155457b4.jpg",
+                        "Pdb/400155457b5.jpg",
+                        "Pdb/400155457b6.jpg",
+                        "Pdb/400155457s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "65",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.6",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "3",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 4769,
+                            "name": "Подсветка зоны уборки",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": null
+                        },
+                        {
+                            "id": 460,
+                            "name": "Сухая уборка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
                     "productId": "400159741",
                     "name": "Пылесос ручной (handstick) Dreame R20",
                     "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r20",
@@ -488,99 +676,6 @@
                             "id": 508,
                             "name": "Количество режимов работы",
                             "value": "3",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 4769,
-                            "name": "Подсветка зоны уборки",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 7,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "400455255",
-                    "name": "Пылесос ручной (handstick) Dreame T30 (VTT1)",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-t30-vtt1",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400455255",
-                    "materialSource": "ERP",
-                    "modelName": "T30 (VTT1)",
-                    "rating": {
-                        "star": 4,
-                        "count": 3,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400455255b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400455255.jpg",
-                        "Pdb/400455255b.jpg",
-                        "Pdb/400455255b1.jpg",
-                        "Pdb/400455255b101.jpg",
-                        "Pdb/400455255b2.jpg",
-                        "Pdb/400455255b3.jpg",
-                        "Pdb/400455255b4.jpg",
-                        "Pdb/400455255s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 649,
-                            "name": "Максимальная мощность всасывания",
-                            "value": "190",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 1,
-                            "measure": "Вт"
-                        },
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "90",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.6",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "2",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 5,
@@ -699,6 +794,105 @@
                     ]
                 },
                 {
+                    "productId": "400304960",
+                    "name": "Пылесос ручной (handstick) моющий Dreame Wet and Dry Vacuum H12S(HHR30B)",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400304960",
+                    "materialSource": "ERP",
+                    "modelName": "Wet and Dry Vacuum H12S(HHR30B)",
+                    "rating": {
+                        "star": 4.6,
+                        "count": 52,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400304960b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400304960.jpg",
+                        "Pdb/400304960b.jpg",
+                        "Pdb/400304960b1.jpg",
+                        "Pdb/400304960b10.jpg",
+                        "Pdb/400304960b101.jpg",
+                        "Pdb/400304960b2.jpg",
+                        "Pdb/400304960b3.jpg",
+                        "Pdb/400304960b4.jpg",
+                        "Pdb/400304960b5.jpg",
+                        "Pdb/400304960b6.jpg",
+                        "Pdb/400304960b7.jpg",
+                        "Pdb/400304960b8.jpg",
+                        "Pdb/400304960b9.jpg",
+                        "Pdb/400304960s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.7",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 1546,
+                            "name": "Влажная уборка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 460,
+                            "name": "Сухая уборка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        },
+                        {
+                            "id": 452,
+                            "name": "Вертикальная парковка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 13,
+                            "measure": null
+                        },
+                        {
+                            "id": 91,
+                            "name": "Вес",
+                            "value": "4.9",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 14,
+                            "measure": "кг"
+                        }
+                    ]
+                },
+                {
                     "productId": "400459722",
                     "name": "Пылесос ручной (handstick) Dreame R10S Pro (VZV23A)",
                     "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10s-pro-vzv23a",
@@ -801,105 +995,6 @@
                     ]
                 },
                 {
-                    "productId": "400304960",
-                    "name": "Пылесос ручной (handstick) моющий Dreame Wet and Dry Vacuum H12S(HHR30B)",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400304960",
-                    "materialSource": "ERP",
-                    "modelName": "Wet and Dry Vacuum H12S(HHR30B)",
-                    "rating": {
-                        "star": 4.6,
-                        "count": 52,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400304960b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400304960.jpg",
-                        "Pdb/400304960b.jpg",
-                        "Pdb/400304960b1.jpg",
-                        "Pdb/400304960b10.jpg",
-                        "Pdb/400304960b101.jpg",
-                        "Pdb/400304960b2.jpg",
-                        "Pdb/400304960b3.jpg",
-                        "Pdb/400304960b4.jpg",
-                        "Pdb/400304960b5.jpg",
-                        "Pdb/400304960b6.jpg",
-                        "Pdb/400304960b7.jpg",
-                        "Pdb/400304960b8.jpg",
-                        "Pdb/400304960b9.jpg",
-                        "Pdb/400304960s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.7",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 1546,
-                            "name": "Влажная уборка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 6,
-                            "measure": null
-                        },
-                        {
-                            "id": 460,
-                            "name": "Сухая уборка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 11,
-                            "measure": null
-                        },
-                        {
-                            "id": 452,
-                            "name": "Вертикальная парковка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 13,
-                            "measure": null
-                        },
-                        {
-                            "id": 91,
-                            "name": "Вес",
-                            "value": "4.9",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 14,
-                            "measure": "кг"
-                        }
-                    ]
-                },
-                {
                     "productId": "400443245",
                     "name": "Пылесос ручной (handstick) моющий Dreame H12 Pro FlexReach",
                     "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-pro-flexreach",
@@ -990,101 +1085,6 @@
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 7,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "400155457",
-                    "name": "Пылесос ручной (handstick) Dreame R10 Pro Black",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-black",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400155457",
-                    "materialSource": "ERP",
-                    "modelName": "R10 Pro",
-                    "rating": {
-                        "star": 4.85,
-                        "count": 183,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400155457b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400155457.jpg",
-                        "Pdb/400155457b.jpg",
-                        "Pdb/400155457b1.jpg",
-                        "Pdb/400155457b101.jpg",
-                        "Pdb/400155457b2.jpg",
-                        "Pdb/400155457b3.jpg",
-                        "Pdb/400155457b4.jpg",
-                        "Pdb/400155457b5.jpg",
-                        "Pdb/400155457b6.jpg",
-                        "Pdb/400155457s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "65",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.6",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "3",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 4769,
-                            "name": "Подсветка зоны уборки",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 7,
-                            "measure": null
-                        },
-                        {
-                            "id": 460,
-                            "name": "Сухая уборка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 11,
                             "measure": null
                         }
                     ]
@@ -1182,17 +1182,17 @@
                     ]
                 },
                 {
-                    "productId": "400430668",
-                    "name": "Пылесос ручной (handstick) Dreame Z30 Aqua Cycle",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-z30-aqua-cycle",
+                    "productId": "20075525",
+                    "name": "Пылесос ручной (handstick) Dreame V10 White",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v10-white",
                     "productType": "BT",
                     "usedProductType": null,
-                    "materialCisNumber": "400430668",
+                    "materialCisNumber": "20075525",
                     "materialSource": "ERP",
-                    "modelName": "Z30 Aqua Cycle",
+                    "modelName": "Cordless Vacuum Cleaner V10 White",
                     "rating": {
                         "star": 4.95,
-                        "count": 18,
+                        "count": 36,
                         "percent": null
                     },
                     "supplier": null,
@@ -1201,7 +1201,7 @@
                     "saleLegal": true,
                     "isMprimeSubscription": false,
                     "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400430668b.jpg",
+                    "image": "Pdb/small_pic/480/20075525b.jpg",
                     "brandId": "7644",
                     "brandName": "Dreame",
                     "status": {
@@ -1217,28 +1217,25 @@
                     },
                     "properties": null,
                     "images": [
-                        "Pdb/400430668.jpg",
-                        "Pdb/400430668b.jpg",
-                        "Pdb/400430668b1.jpg",
-                        "Pdb/400430668b10.jpg",
-                        "Pdb/400430668b101.jpg",
-                        "Pdb/400430668b11.jpg",
-                        "Pdb/400430668b12.jpg",
-                        "Pdb/400430668b2.jpg",
-                        "Pdb/400430668b3.jpg",
-                        "Pdb/400430668b4.jpg",
-                        "Pdb/400430668b5.jpg",
-                        "Pdb/400430668b6.jpg",
-                        "Pdb/400430668b7.jpg",
-                        "Pdb/400430668b8.jpg",
-                        "Pdb/400430668b9.jpg",
-                        "Pdb/400430668s.jpg"
+                        "Pdb/20075525.jpg",
+                        "Pdb/20075525b.jpg",
+                        "Pdb/20075525b1.jpg",
+                        "Pdb/20075525b10.jpg",
+                        "Pdb/20075525b101.jpg",
+                        "Pdb/20075525b11.jpg",
+                        "Pdb/20075525b12.jpg",
+                        "Pdb/20075525b13.jpg",
+                        "Pdb/20075525b14.jpg",
+                        "Pdb/20075525b15.jpg",
+                        "Pdb/20075525b2.jpg",
+                        "Pdb/20075525b3.jpg",
+                        "Pdb/20075525s.jpg"
                     ],
                     "propertiesPortion": [
                         {
                             "id": 649,
                             "name": "Максимальная мощность всасывания",
-                            "value": "310",
+                            "value": "140",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 1,
@@ -1247,7 +1244,7 @@
                         {
                             "id": 612334,
                             "name": "Время работы от аккумулятора до",
-                            "value": "90",
+                            "value": "60",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 3,
@@ -1256,7 +1253,7 @@
                         {
                             "id": 455,
                             "name": "Объем контейнера для пыли",
-                            "value": "0.6",
+                            "value": "0.5",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 4,
@@ -1272,12 +1269,12 @@
                             "measure": null
                         },
                         {
-                            "id": 1546,
-                            "name": "Влажная уборка",
+                            "id": 703,
+                            "name": "Циклоническая система",
                             "value": "Да",
-                            "nameDescription": null,
+                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
                             "valueDescription": null,
-                            "priority": 6,
+                            "priority": 8,
                             "measure": null
                         }
                     ]
@@ -1338,6 +1335,107 @@
                             "id": 649,
                             "name": "Максимальная мощность всасывания",
                             "value": "150",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "Вт"
+                        },
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "90",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.6",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "3",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1546,
+                            "name": "Влажная уборка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400430668",
+                    "name": "Пылесос ручной (handstick) Dreame Z30 Aqua Cycle",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-z30-aqua-cycle",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400430668",
+                    "materialSource": "ERP",
+                    "modelName": "Z30 Aqua Cycle",
+                    "rating": {
+                        "star": 4.95,
+                        "count": 18,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400430668b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400430668.jpg",
+                        "Pdb/400430668b.jpg",
+                        "Pdb/400430668b1.jpg",
+                        "Pdb/400430668b10.jpg",
+                        "Pdb/400430668b101.jpg",
+                        "Pdb/400430668b11.jpg",
+                        "Pdb/400430668b12.jpg",
+                        "Pdb/400430668b2.jpg",
+                        "Pdb/400430668b3.jpg",
+                        "Pdb/400430668b4.jpg",
+                        "Pdb/400430668b5.jpg",
+                        "Pdb/400430668b6.jpg",
+                        "Pdb/400430668b7.jpg",
+                        "Pdb/400430668b8.jpg",
+                        "Pdb/400430668b9.jpg",
+                        "Pdb/400430668s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 649,
+                            "name": "Максимальная мощность всасывания",
+                            "value": "310",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 1,
@@ -1478,17 +1576,17 @@
                     ]
                 },
                 {
-                    "productId": "20075525",
-                    "name": "Пылесос ручной (handstick) Dreame V10 White",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v10-white",
+                    "productId": "400260378",
+                    "name": "Пылесос ручной (handstick) Dreame U20",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-u20",
                     "productType": "BT",
                     "usedProductType": null,
-                    "materialCisNumber": "20075525",
+                    "materialCisNumber": "400260378",
                     "materialSource": "ERP",
-                    "modelName": "Cordless Vacuum Cleaner V10 White",
+                    "modelName": "U20",
                     "rating": {
-                        "star": 4.95,
-                        "count": 36,
+                        "star": 4.75,
+                        "count": 72,
                         "percent": null
                     },
                     "supplier": null,
@@ -1497,7 +1595,7 @@
                     "saleLegal": true,
                     "isMprimeSubscription": false,
                     "isPreorder": false,
-                    "image": "Pdb/small_pic/480/20075525b.jpg",
+                    "image": "Pdb/small_pic/480/400260378b.jpg",
                     "brandId": "7644",
                     "brandName": "Dreame",
                     "status": {
@@ -1513,19 +1611,22 @@
                     },
                     "properties": null,
                     "images": [
-                        "Pdb/20075525.jpg",
-                        "Pdb/20075525b.jpg",
-                        "Pdb/20075525b1.jpg",
-                        "Pdb/20075525b10.jpg",
-                        "Pdb/20075525b101.jpg",
-                        "Pdb/20075525b11.jpg",
-                        "Pdb/20075525b12.jpg",
-                        "Pdb/20075525b13.jpg",
-                        "Pdb/20075525b14.jpg",
-                        "Pdb/20075525b15.jpg",
-                        "Pdb/20075525b2.jpg",
-                        "Pdb/20075525b3.jpg",
-                        "Pdb/20075525s.jpg"
+                        "Pdb/400260378.jpg",
+                        "Pdb/400260378b.jpg",
+                        "Pdb/400260378b1.jpg",
+                        "Pdb/400260378b10.jpg",
+                        "Pdb/400260378b101.jpg",
+                        "Pdb/400260378b11.jpg",
+                        "Pdb/400260378b12.jpg",
+                        "Pdb/400260378b2.jpg",
+                        "Pdb/400260378b3.jpg",
+                        "Pdb/400260378b4.jpg",
+                        "Pdb/400260378b5.jpg",
+                        "Pdb/400260378b6.jpg",
+                        "Pdb/400260378b7.jpg",
+                        "Pdb/400260378b8.jpg",
+                        "Pdb/400260378b9.jpg",
+                        "Pdb/400260378s.jpg"
                     ],
                     "propertiesPortion": [
                         {
@@ -1565,12 +1666,12 @@
                             "measure": null
                         },
                         {
-                            "id": 703,
-                            "name": "Циклоническая система",
+                            "id": 4769,
+                            "name": "Подсветка зоны уборки",
                             "value": "Да",
-                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                            "nameDescription": null,
                             "valueDescription": null,
-                            "priority": 8,
+                            "priority": 7,
                             "measure": null
                         }
                     ]
@@ -1680,17 +1781,17 @@
                     ]
                 },
                 {
-                    "productId": "400260378",
-                    "name": "Пылесос ручной (handstick) Dreame U20",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-u20",
+                    "productId": "400195895",
+                    "name": "Пылесос ручной (handstick) моющий Dreame H12 Core",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-core",
                     "productType": "BT",
                     "usedProductType": null,
-                    "materialCisNumber": "400260378",
+                    "materialCisNumber": "400195895",
                     "materialSource": "ERP",
-                    "modelName": "U20",
+                    "modelName": "H12 Core",
                     "rating": {
-                        "star": 4.75,
-                        "count": 72,
+                        "star": 4.7,
+                        "count": 79,
                         "percent": null
                     },
                     "supplier": null,
@@ -1699,7 +1800,7 @@
                     "saleLegal": true,
                     "isMprimeSubscription": false,
                     "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400260378b.jpg",
+                    "image": "Pdb/small_pic/480/400195895b.jpg",
                     "brandId": "7644",
                     "brandName": "Dreame",
                     "status": {
@@ -1715,67 +1816,68 @@
                     },
                     "properties": null,
                     "images": [
-                        "Pdb/400260378.jpg",
-                        "Pdb/400260378b.jpg",
-                        "Pdb/400260378b1.jpg",
-                        "Pdb/400260378b10.jpg",
-                        "Pdb/400260378b101.jpg",
-                        "Pdb/400260378b11.jpg",
-                        "Pdb/400260378b12.jpg",
-                        "Pdb/400260378b2.jpg",
-                        "Pdb/400260378b3.jpg",
-                        "Pdb/400260378b4.jpg",
-                        "Pdb/400260378b5.jpg",
-                        "Pdb/400260378b6.jpg",
-                        "Pdb/400260378b7.jpg",
-                        "Pdb/400260378b8.jpg",
-                        "Pdb/400260378b9.jpg",
-                        "Pdb/400260378s.jpg"
+                        "Pdb/400195895.jpg",
+                        "Pdb/400195895b.jpg",
+                        "Pdb/400195895b1.jpg",
+                        "Pdb/400195895b10.jpg",
+                        "Pdb/400195895b101.jpg",
+                        "Pdb/400195895b11.jpg",
+                        "Pdb/400195895b12.jpg",
+                        "Pdb/400195895b13.jpg",
+                        "Pdb/400195895b2.jpg",
+                        "Pdb/400195895b3.jpg",
+                        "Pdb/400195895b4.jpg",
+                        "Pdb/400195895b5.jpg",
+                        "Pdb/400195895b6.jpg",
+                        "Pdb/400195895b7.jpg",
+                        "Pdb/400195895b8.jpg",
+                        "Pdb/400195895b9.jpg",
+                        "Pdb/400195895s.jpg"
                     ],
                     "propertiesPortion": [
                         {
-                            "id": 649,
-                            "name": "Максимальная мощность всасывания",
-                            "value": "140",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 1,
-                            "measure": "Вт"
-                        },
-                        {
                             "id": 612334,
                             "name": "Время работы от аккумулятора до",
-                            "value": "60",
+                            "value": "25",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 3,
                             "measure": "мин"
                         },
                         {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.5",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
                             "id": 508,
                             "name": "Количество режимов работы",
-                            "value": "3",
+                            "value": "2",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 5,
                             "measure": null
                         },
                         {
-                            "id": 4769,
-                            "name": "Подсветка зоны уборки",
+                            "id": 1546,
+                            "name": "Влажная уборка",
                             "value": "Да",
                             "nameDescription": null,
                             "valueDescription": null,
-                            "priority": 7,
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853578,
+                            "name": "Выходной фильтр",
+                            "value": "сменный HEPA",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 10,
+                            "measure": null
+                        },
+                        {
+                            "id": 452,
+                            "name": "Вертикальная парковка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 13,
                             "measure": null
                         }
                     ]
@@ -1879,17 +1981,17 @@
                     ]
                 },
                 {
-                    "productId": "400195895",
-                    "name": "Пылесос ручной (handstick) моющий Dreame H12 Core",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-core",
+                    "productId": "400104200",
+                    "name": "Пылесос ручной (handstick) моющий Dreame H12 Pro",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-pro",
                     "productType": "BT",
                     "usedProductType": null,
-                    "materialCisNumber": "400195895",
+                    "materialCisNumber": "400104200",
                     "materialSource": "ERP",
-                    "modelName": "H12 Core",
+                    "modelName": "H12 Pro",
                     "rating": {
-                        "star": 4.7,
-                        "count": 79,
+                        "star": 4.75,
+                        "count": 99,
                         "percent": null
                     },
                     "supplier": null,
@@ -1898,7 +2000,7 @@
                     "saleLegal": true,
                     "isMprimeSubscription": false,
                     "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400195895b.jpg",
+                    "image": "Pdb/small_pic/480/400104200b.jpg",
                     "brandId": "7644",
                     "brandName": "Dreame",
                     "status": {
@@ -1914,29 +2016,22 @@
                     },
                     "properties": null,
                     "images": [
-                        "Pdb/400195895.jpg",
-                        "Pdb/400195895b.jpg",
-                        "Pdb/400195895b1.jpg",
-                        "Pdb/400195895b10.jpg",
-                        "Pdb/400195895b101.jpg",
-                        "Pdb/400195895b11.jpg",
-                        "Pdb/400195895b12.jpg",
-                        "Pdb/400195895b13.jpg",
-                        "Pdb/400195895b2.jpg",
-                        "Pdb/400195895b3.jpg",
-                        "Pdb/400195895b4.jpg",
-                        "Pdb/400195895b5.jpg",
-                        "Pdb/400195895b6.jpg",
-                        "Pdb/400195895b7.jpg",
-                        "Pdb/400195895b8.jpg",
-                        "Pdb/400195895b9.jpg",
-                        "Pdb/400195895s.jpg"
+                        "Pdb/400104200.jpg",
+                        "Pdb/400104200b.jpg",
+                        "Pdb/400104200b1.jpg",
+                        "Pdb/400104200b101.jpg",
+                        "Pdb/400104200b2.jpg",
+                        "Pdb/400104200b3.jpg",
+                        "Pdb/400104200b4.jpg",
+                        "Pdb/400104200b5.jpg",
+                        "Pdb/400104200b6.jpg",
+                        "Pdb/400104200s.jpg"
                     ],
                     "propertiesPortion": [
                         {
                             "id": 612334,
                             "name": "Время работы от аккумулятора до",
-                            "value": "25",
+                            "value": "35",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 3,
@@ -1945,7 +2040,7 @@
                         {
                             "id": 508,
                             "name": "Количество режимов работы",
-                            "value": "2",
+                            "value": "3",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 5,
@@ -1963,7 +2058,7 @@
                         {
                             "id": 30853578,
                             "name": "Выходной фильтр",
-                            "value": "сменный HEPA",
+                            "value": "моющийся HEPA",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 10,
@@ -1976,6 +2071,201 @@
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 13,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20082719",
+                    "name": "Пылесос ручной (handstick) Dreame V11 Grey",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-grey",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20082719",
+                    "materialSource": "ERP",
+                    "modelName": "Cordless Vacuum Cleaner V11 Grey",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 140,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/20082719b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20082719.jpg",
+                        "Pdb/20082719b.jpg",
+                        "Pdb/20082719b1.jpg",
+                        "Pdb/20082719b101.jpg",
+                        "Pdb/20082719b2.jpg",
+                        "Pdb/20082719b3.jpg",
+                        "Pdb/20082719b4.jpg",
+                        "Pdb/20082719b5.jpg",
+                        "Pdb/20082719s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 649,
+                            "name": "Максимальная мощность всасывания",
+                            "value": "150",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "Вт"
+                        },
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "60",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "3",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 703,
+                            "name": "Циклоническая система",
+                            "value": "Да",
+                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "20082717",
+                    "name": "Пылесос ручной (handstick) Dreame V11 SE (00-00214124)",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-se-00-00214124",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "20082717",
+                    "materialSource": "ERP",
+                    "modelName": "V11 SE Grey",
+                    "rating": {
+                        "star": 4.8,
+                        "count": 105,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/20082717b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/20082717.jpg",
+                        "Pdb/20082717b.jpg",
+                        "Pdb/20082717b1.jpg",
+                        "Pdb/20082717b10.jpg",
+                        "Pdb/20082717b101.jpg",
+                        "Pdb/20082717b11.jpg",
+                        "Pdb/20082717b12.jpg",
+                        "Pdb/20082717b2.jpg",
+                        "Pdb/20082717b3.jpg",
+                        "Pdb/20082717b4.jpg",
+                        "Pdb/20082717b5.jpg",
+                        "Pdb/20082717b6.jpg",
+                        "Pdb/20082717b7.jpg",
+                        "Pdb/20082717b8.jpg",
+                        "Pdb/20082717b9.jpg",
+                        "Pdb/20082717s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 649,
+                            "name": "Максимальная мощность всасывания",
+                            "value": "140",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "Вт"
+                        },
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "60",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "3",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 703,
+                            "name": "Циклоническая система",
+                            "value": "Да",
+                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                            "valueDescription": null,
+                            "priority": 8,
                             "measure": null
                         }
                     ]
@@ -2052,6 +2342,107 @@
                             "id": 455,
                             "name": "Объем контейнера для пыли",
                             "value": "600",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "л"
+                        },
+                        {
+                            "id": 508,
+                            "name": "Количество режимов работы",
+                            "value": "4",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": null
+                        },
+                        {
+                            "id": 1546,
+                            "name": "Влажная уборка",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "400376370",
+                    "name": "Пылесос ручной (handstick) Dreame R20 Aqua",
+                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r20-aqua",
+                    "productType": "BT",
+                    "usedProductType": null,
+                    "materialCisNumber": "400376370",
+                    "materialSource": "ERP",
+                    "modelName": "R20 Aqua",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 26,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "saleLegal": true,
+                    "isMprimeSubscription": false,
+                    "isPreorder": false,
+                    "image": "Pdb/small_pic/480/400376370b.jpg",
+                    "brandId": "7644",
+                    "brandName": "Dreame",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isPrepayment": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3088",
+                        "name": "Пылесосы вертикальные"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400376370.jpg",
+                        "Pdb/400376370b.jpg",
+                        "Pdb/400376370b1.jpg",
+                        "Pdb/400376370b10.jpg",
+                        "Pdb/400376370b101.jpg",
+                        "Pdb/400376370b11.jpg",
+                        "Pdb/400376370b12.jpg",
+                        "Pdb/400376370b2.jpg",
+                        "Pdb/400376370b3.jpg",
+                        "Pdb/400376370b4.jpg",
+                        "Pdb/400376370b5.jpg",
+                        "Pdb/400376370b6.jpg",
+                        "Pdb/400376370b7.jpg",
+                        "Pdb/400376370b8.jpg",
+                        "Pdb/400376370b9.jpg",
+                        "Pdb/400376370s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 649,
+                            "name": "Максимальная мощность всасывания",
+                            "value": "190",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "Вт"
+                        },
+                        {
+                            "id": 612334,
+                            "name": "Время работы от аккумулятора до",
+                            "value": "90",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "мин"
+                        },
+                        {
+                            "id": 455,
+                            "name": "Объем контейнера для пыли",
+                            "value": "0.6",
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 4,
@@ -2170,397 +2561,6 @@
                             "nameDescription": null,
                             "valueDescription": null,
                             "priority": 11,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "20082719",
-                    "name": "Пылесос ручной (handstick) Dreame V11 Grey",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-grey",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "20082719",
-                    "materialSource": "ERP",
-                    "modelName": "Cordless Vacuum Cleaner V11 Grey",
-                    "rating": {
-                        "star": 4.9,
-                        "count": 140,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/20082719b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/20082719.jpg",
-                        "Pdb/20082719b.jpg",
-                        "Pdb/20082719b1.jpg",
-                        "Pdb/20082719b101.jpg",
-                        "Pdb/20082719b2.jpg",
-                        "Pdb/20082719b3.jpg",
-                        "Pdb/20082719b4.jpg",
-                        "Pdb/20082719b5.jpg",
-                        "Pdb/20082719s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 649,
-                            "name": "Максимальная мощность всасывания",
-                            "value": "150",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 1,
-                            "measure": "Вт"
-                        },
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "60",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.5",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "3",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 703,
-                            "name": "Циклоническая система",
-                            "value": "Да",
-                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
-                            "valueDescription": null,
-                            "priority": 8,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "400104200",
-                    "name": "Пылесос ручной (handstick) моющий Dreame H12 Pro",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-pro",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400104200",
-                    "materialSource": "ERP",
-                    "modelName": "H12 Pro",
-                    "rating": {
-                        "star": 4.75,
-                        "count": 99,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400104200b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400104200.jpg",
-                        "Pdb/400104200b.jpg",
-                        "Pdb/400104200b1.jpg",
-                        "Pdb/400104200b101.jpg",
-                        "Pdb/400104200b2.jpg",
-                        "Pdb/400104200b3.jpg",
-                        "Pdb/400104200b4.jpg",
-                        "Pdb/400104200b5.jpg",
-                        "Pdb/400104200b6.jpg",
-                        "Pdb/400104200s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "35",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "3",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 1546,
-                            "name": "Влажная уборка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 6,
-                            "measure": null
-                        },
-                        {
-                            "id": 30853578,
-                            "name": "Выходной фильтр",
-                            "value": "моющийся HEPA",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 10,
-                            "measure": null
-                        },
-                        {
-                            "id": 452,
-                            "name": "Вертикальная парковка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 13,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "20082717",
-                    "name": "Пылесос ручной (handstick) Dreame V11 SE (00-00214124)",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-se-00-00214124",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "20082717",
-                    "materialSource": "ERP",
-                    "modelName": "V11 SE Grey",
-                    "rating": {
-                        "star": 4.8,
-                        "count": 105,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/20082717b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/20082717.jpg",
-                        "Pdb/20082717b.jpg",
-                        "Pdb/20082717b1.jpg",
-                        "Pdb/20082717b10.jpg",
-                        "Pdb/20082717b101.jpg",
-                        "Pdb/20082717b11.jpg",
-                        "Pdb/20082717b12.jpg",
-                        "Pdb/20082717b2.jpg",
-                        "Pdb/20082717b3.jpg",
-                        "Pdb/20082717b4.jpg",
-                        "Pdb/20082717b5.jpg",
-                        "Pdb/20082717b6.jpg",
-                        "Pdb/20082717b7.jpg",
-                        "Pdb/20082717b8.jpg",
-                        "Pdb/20082717b9.jpg",
-                        "Pdb/20082717s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 649,
-                            "name": "Максимальная мощность всасывания",
-                            "value": "140",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 1,
-                            "measure": "Вт"
-                        },
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "60",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.5",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "3",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 703,
-                            "name": "Циклоническая система",
-                            "value": "Да",
-                            "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
-                            "valueDescription": null,
-                            "priority": 8,
-                            "measure": null
-                        }
-                    ]
-                },
-                {
-                    "productId": "400376370",
-                    "name": "Пылесос ручной (handstick) Dreame R20 Aqua",
-                    "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r20-aqua",
-                    "productType": "BT",
-                    "usedProductType": null,
-                    "materialCisNumber": "400376370",
-                    "materialSource": "ERP",
-                    "modelName": "R20 Aqua",
-                    "rating": {
-                        "star": 4.9,
-                        "count": 26,
-                        "percent": null
-                    },
-                    "supplier": null,
-                    "vendorCatalog": null,
-                    "sublicense": false,
-                    "saleLegal": true,
-                    "isMprimeSubscription": false,
-                    "isPreorder": false,
-                    "image": "Pdb/small_pic/480/400376370b.jpg",
-                    "brandId": "7644",
-                    "brandName": "Dreame",
-                    "status": {
-                        "showCase": false,
-                        "availableOnlyInRetailStore": false,
-                        "soldOut": false,
-                        "isPrepayment": false,
-                        "isCannotBeExchanged": false
-                    },
-                    "category": {
-                        "id": "3088",
-                        "name": "Пылесосы вертикальные"
-                    },
-                    "properties": null,
-                    "images": [
-                        "Pdb/400376370.jpg",
-                        "Pdb/400376370b.jpg",
-                        "Pdb/400376370b1.jpg",
-                        "Pdb/400376370b10.jpg",
-                        "Pdb/400376370b101.jpg",
-                        "Pdb/400376370b11.jpg",
-                        "Pdb/400376370b12.jpg",
-                        "Pdb/400376370b2.jpg",
-                        "Pdb/400376370b3.jpg",
-                        "Pdb/400376370b4.jpg",
-                        "Pdb/400376370b5.jpg",
-                        "Pdb/400376370b6.jpg",
-                        "Pdb/400376370b7.jpg",
-                        "Pdb/400376370b8.jpg",
-                        "Pdb/400376370b9.jpg",
-                        "Pdb/400376370s.jpg"
-                    ],
-                    "propertiesPortion": [
-                        {
-                            "id": 649,
-                            "name": "Максимальная мощность всасывания",
-                            "value": "190",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 1,
-                            "measure": "Вт"
-                        },
-                        {
-                            "id": 612334,
-                            "name": "Время работы от аккумулятора до",
-                            "value": "90",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 3,
-                            "measure": "мин"
-                        },
-                        {
-                            "id": 455,
-                            "name": "Объем контейнера для пыли",
-                            "value": "0.6",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 4,
-                            "measure": "л"
-                        },
-                        {
-                            "id": 508,
-                            "name": "Количество режимов работы",
-                            "value": "4",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 5,
-                            "measure": null
-                        },
-                        {
-                            "id": 1546,
-                            "name": "Влажная уборка",
-                            "value": "Да",
-                            "nameDescription": null,
-                            "valueDescription": null,
-                            "priority": 6,
                             "measure": null
                         }
                     ]

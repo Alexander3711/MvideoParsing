@@ -323,6 +323,105 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
+            "productId": "400455255",
+            "name": "Пылесос ручной (handstick) Dreame T30 (VTT1)",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-t30-vtt1",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400455255",
+            "materialSource": "ERP",
+            "modelName": "T30 (VTT1)",
+            "rating": {
+                "star": 4,
+                "count": 3,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400455255b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400455255.jpg",
+                "Pdb/400455255b.jpg",
+                "Pdb/400455255b1.jpg",
+                "Pdb/400455255b101.jpg",
+                "Pdb/400455255b2.jpg",
+                "Pdb/400455255b3.jpg",
+                "Pdb/400455255b4.jpg",
+                "Pdb/400455255s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 649,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "190",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "90",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "2",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 4769,
+                    "name": "Подсветка зоны уборки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 34999,
+            "item_salePrice": 24999,
+            "item_bonus": 750,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-t30-vtt1-400455255",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
             "productId": "400457770",
             "name": "Пылесос ручной (handstick) моющий Dreame Wet&Dry Cordless Vacuum Cleaner G10 Pro (HHR20A)",
             "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wetdry-cordless-vacuum-cleaner-g10-pro-hhr20a",
@@ -431,6 +530,107 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
+            "productId": "400155457",
+            "name": "Пылесос ручной (handstick) Dreame R10 Pro Black",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-black",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400155457",
+            "materialSource": "ERP",
+            "modelName": "R10 Pro",
+            "rating": {
+                "star": 4.85,
+                "count": 183,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400155457b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400155457.jpg",
+                "Pdb/400155457b.jpg",
+                "Pdb/400155457b1.jpg",
+                "Pdb/400155457b101.jpg",
+                "Pdb/400155457b2.jpg",
+                "Pdb/400155457b3.jpg",
+                "Pdb/400155457b4.jpg",
+                "Pdb/400155457b5.jpg",
+                "Pdb/400155457b6.jpg",
+                "Pdb/400155457s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "65",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 4769,
+                    "name": "Подсветка зоны уборки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 460,
+                    "name": "Сухая уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 11,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 24999,
+            "item_salePrice": 19499,
+            "item_bonus": 585,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r10-pro-black-400155457",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
             "productId": "400159741",
             "name": "Пылесос ручной (handstick) Dreame R20",
             "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r20",
@@ -530,105 +730,6 @@
             "item_salePrice": 29999,
             "item_bonus": 900,
             "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r20-400159741",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
-            "productId": "400455255",
-            "name": "Пылесос ручной (handstick) Dreame T30 (VTT1)",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-t30-vtt1",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400455255",
-            "materialSource": "ERP",
-            "modelName": "T30 (VTT1)",
-            "rating": {
-                "star": 4,
-                "count": 3,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400455255b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400455255.jpg",
-                "Pdb/400455255b.jpg",
-                "Pdb/400455255b1.jpg",
-                "Pdb/400455255b101.jpg",
-                "Pdb/400455255b2.jpg",
-                "Pdb/400455255b3.jpg",
-                "Pdb/400455255b4.jpg",
-                "Pdb/400455255s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 649,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "190",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Вт"
-                },
-                {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "90",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.6",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "2",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 4769,
-                    "name": "Подсветка зоны уборки",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 7,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 34999,
-            "item_salePrice": 24999,
-            "item_bonus": 750,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-t30-vtt1-400455255",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -736,6 +837,111 @@
             "item_salePrice": 15999,
             "item_bonus": 480,
             "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-h11-core-400242767",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
+            "productId": "400304960",
+            "name": "Пылесос ручной (handstick) моющий Dreame Wet and Dry Vacuum H12S(HHR30B)",
+            "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400304960",
+            "materialSource": "ERP",
+            "modelName": "Wet and Dry Vacuum H12S(HHR30B)",
+            "rating": {
+                "star": 4.6,
+                "count": 52,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400304960b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400304960.jpg",
+                "Pdb/400304960b.jpg",
+                "Pdb/400304960b1.jpg",
+                "Pdb/400304960b10.jpg",
+                "Pdb/400304960b101.jpg",
+                "Pdb/400304960b2.jpg",
+                "Pdb/400304960b3.jpg",
+                "Pdb/400304960b4.jpg",
+                "Pdb/400304960b5.jpg",
+                "Pdb/400304960b6.jpg",
+                "Pdb/400304960b7.jpg",
+                "Pdb/400304960b8.jpg",
+                "Pdb/400304960b9.jpg",
+                "Pdb/400304960s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.7",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 1546,
+                    "name": "Влажная уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                },
+                {
+                    "id": 460,
+                    "name": "Сухая уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 11,
+                    "measure": null
+                },
+                {
+                    "id": 452,
+                    "name": "Вертикальная парковка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 13,
+                    "measure": null
+                },
+                {
+                    "id": 91,
+                    "name": "Вес",
+                    "value": "4.9",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 14,
+                    "measure": "кг"
+                }
+            ],
+            "item_basePrice": 37999,
+            "item_salePrice": 27799,
+            "item_bonus": 834,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b-400304960",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -848,111 +1054,6 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "400304960",
-            "name": "Пылесос ручной (handstick) моющий Dreame Wet and Dry Vacuum H12S(HHR30B)",
-            "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400304960",
-            "materialSource": "ERP",
-            "modelName": "Wet and Dry Vacuum H12S(HHR30B)",
-            "rating": {
-                "star": 4.6,
-                "count": 52,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400304960b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400304960.jpg",
-                "Pdb/400304960b.jpg",
-                "Pdb/400304960b1.jpg",
-                "Pdb/400304960b10.jpg",
-                "Pdb/400304960b101.jpg",
-                "Pdb/400304960b2.jpg",
-                "Pdb/400304960b3.jpg",
-                "Pdb/400304960b4.jpg",
-                "Pdb/400304960b5.jpg",
-                "Pdb/400304960b6.jpg",
-                "Pdb/400304960b7.jpg",
-                "Pdb/400304960b8.jpg",
-                "Pdb/400304960b9.jpg",
-                "Pdb/400304960s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.7",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 1546,
-                    "name": "Влажная уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 6,
-                    "measure": null
-                },
-                {
-                    "id": 460,
-                    "name": "Сухая уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 11,
-                    "measure": null
-                },
-                {
-                    "id": 452,
-                    "name": "Вертикальная парковка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 13,
-                    "measure": null
-                },
-                {
-                    "id": 91,
-                    "name": "Вес",
-                    "value": "4.9",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 14,
-                    "measure": "кг"
-                }
-            ],
-            "item_basePrice": 37999,
-            "item_salePrice": 27799,
-            "item_bonus": 834,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-wet-and-dry-vacuum-h12shhr30b-400304960",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
             "productId": "400443245",
             "name": "Пылесос ручной (handstick) моющий Dreame H12 Pro FlexReach",
             "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-pro-flexreach",
@@ -1054,107 +1155,6 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "400155457",
-            "name": "Пылесос ручной (handstick) Dreame R10 Pro Black",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-black",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400155457",
-            "materialSource": "ERP",
-            "modelName": "R10 Pro",
-            "rating": {
-                "star": 4.85,
-                "count": 183,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400155457b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400155457.jpg",
-                "Pdb/400155457b.jpg",
-                "Pdb/400155457b1.jpg",
-                "Pdb/400155457b101.jpg",
-                "Pdb/400155457b2.jpg",
-                "Pdb/400155457b3.jpg",
-                "Pdb/400155457b4.jpg",
-                "Pdb/400155457b5.jpg",
-                "Pdb/400155457b6.jpg",
-                "Pdb/400155457s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "65",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.6",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "3",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 4769,
-                    "name": "Подсветка зоны уборки",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 7,
-                    "measure": null
-                },
-                {
-                    "id": 460,
-                    "name": "Сухая уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 11,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 24999,
-            "item_salePrice": 19499,
-            "item_bonus": 585,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r10-pro-black-400155457",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
             "productId": "400324720",
             "name": "Пылесос ручной (handstick) моющий Dreame H13 Pro (HHR27C)",
             "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h13-pro-hhr27c",
@@ -1249,6 +1249,215 @@
             "item_salePrice": 44999,
             "item_bonus": 1350,
             "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-h13-pro-hhr27c-400324720",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
+            "productId": "20075525",
+            "name": "Пылесос ручной (handstick) Dreame V10 White",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v10-white",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "20075525",
+            "materialSource": "ERP",
+            "modelName": "Cordless Vacuum Cleaner V10 White",
+            "rating": {
+                "star": 4.95,
+                "count": 36,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/20075525b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/20075525.jpg",
+                "Pdb/20075525b.jpg",
+                "Pdb/20075525b1.jpg",
+                "Pdb/20075525b10.jpg",
+                "Pdb/20075525b101.jpg",
+                "Pdb/20075525b11.jpg",
+                "Pdb/20075525b12.jpg",
+                "Pdb/20075525b13.jpg",
+                "Pdb/20075525b14.jpg",
+                "Pdb/20075525b15.jpg",
+                "Pdb/20075525b2.jpg",
+                "Pdb/20075525b3.jpg",
+                "Pdb/20075525s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 649,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "140",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "60",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 703,
+                    "name": "Циклоническая система",
+                    "value": "Да",
+                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 14999,
+            "item_salePrice": 14999,
+            "item_bonus": 450,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v10-white-20075525",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
+            "productId": "400334978",
+            "name": "Пылесос ручной (handstick) Dreame R10 Pro Aqua",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-aqua",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400334978",
+            "materialSource": "ERP",
+            "modelName": "R10 Pro Aqua",
+            "rating": {
+                "star": 4.55,
+                "count": 61,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400334978b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400334978.jpg",
+                "Pdb/400334978b.jpg",
+                "Pdb/400334978b1.jpg",
+                "Pdb/400334978b10.jpg",
+                "Pdb/400334978b101.jpg",
+                "Pdb/400334978b2.jpg",
+                "Pdb/400334978b3.jpg",
+                "Pdb/400334978b4.jpg",
+                "Pdb/400334978b5.jpg",
+                "Pdb/400334978b6.jpg",
+                "Pdb/400334978b7.jpg",
+                "Pdb/400334978b8.jpg",
+                "Pdb/400334978b9.jpg",
+                "Pdb/400334978s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 649,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "150",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "90",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.6",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 1546,
+                    "name": "Влажная уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 32999,
+            "item_salePrice": 26999,
+            "item_bonus": 810,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r10-pro-aqua-400334978",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -1360,111 +1569,6 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "400334978",
-            "name": "Пылесос ручной (handstick) Dreame R10 Pro Aqua",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10-pro-aqua",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400334978",
-            "materialSource": "ERP",
-            "modelName": "R10 Pro Aqua",
-            "rating": {
-                "star": 4.55,
-                "count": 61,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400334978b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400334978.jpg",
-                "Pdb/400334978b.jpg",
-                "Pdb/400334978b1.jpg",
-                "Pdb/400334978b10.jpg",
-                "Pdb/400334978b101.jpg",
-                "Pdb/400334978b2.jpg",
-                "Pdb/400334978b3.jpg",
-                "Pdb/400334978b4.jpg",
-                "Pdb/400334978b5.jpg",
-                "Pdb/400334978b6.jpg",
-                "Pdb/400334978b7.jpg",
-                "Pdb/400334978b8.jpg",
-                "Pdb/400334978b9.jpg",
-                "Pdb/400334978s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 649,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "150",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Вт"
-                },
-                {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "90",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.6",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "3",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 1546,
-                    "name": "Влажная уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 6,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 32999,
-            "item_salePrice": 26999,
-            "item_bonus": 810,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r10-pro-aqua-400334978",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
             "productId": "400155486",
             "name": "Пылесос ручной (handstick) Dreame R10",
             "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r10",
@@ -1567,17 +1671,17 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "20075525",
-            "name": "Пылесос ручной (handstick) Dreame V10 White",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v10-white",
+            "productId": "400260378",
+            "name": "Пылесос ручной (handstick) Dreame U20",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-u20",
             "productType": "BT",
             "usedProductType": null,
-            "materialCisNumber": "20075525",
+            "materialCisNumber": "400260378",
             "materialSource": "ERP",
-            "modelName": "Cordless Vacuum Cleaner V10 White",
+            "modelName": "U20",
             "rating": {
-                "star": 4.95,
-                "count": 36,
+                "star": 4.75,
+                "count": 72,
                 "percent": null
             },
             "supplier": null,
@@ -1586,7 +1690,7 @@
             "saleLegal": true,
             "isMprimeSubscription": false,
             "isPreorder": false,
-            "image": "Pdb/small_pic/480/20075525b.jpg",
+            "image": "Pdb/small_pic/480/400260378b.jpg",
             "brandId": "7644",
             "brandName": "Dreame",
             "status": {
@@ -1602,19 +1706,22 @@
             },
             "properties": null,
             "images": [
-                "Pdb/20075525.jpg",
-                "Pdb/20075525b.jpg",
-                "Pdb/20075525b1.jpg",
-                "Pdb/20075525b10.jpg",
-                "Pdb/20075525b101.jpg",
-                "Pdb/20075525b11.jpg",
-                "Pdb/20075525b12.jpg",
-                "Pdb/20075525b13.jpg",
-                "Pdb/20075525b14.jpg",
-                "Pdb/20075525b15.jpg",
-                "Pdb/20075525b2.jpg",
-                "Pdb/20075525b3.jpg",
-                "Pdb/20075525s.jpg"
+                "Pdb/400260378.jpg",
+                "Pdb/400260378b.jpg",
+                "Pdb/400260378b1.jpg",
+                "Pdb/400260378b10.jpg",
+                "Pdb/400260378b101.jpg",
+                "Pdb/400260378b11.jpg",
+                "Pdb/400260378b12.jpg",
+                "Pdb/400260378b2.jpg",
+                "Pdb/400260378b3.jpg",
+                "Pdb/400260378b4.jpg",
+                "Pdb/400260378b5.jpg",
+                "Pdb/400260378b6.jpg",
+                "Pdb/400260378b7.jpg",
+                "Pdb/400260378b8.jpg",
+                "Pdb/400260378b9.jpg",
+                "Pdb/400260378s.jpg"
             ],
             "propertiesPortion": [
                 {
@@ -1654,19 +1761,19 @@
                     "measure": null
                 },
                 {
-                    "id": 703,
-                    "name": "Циклоническая система",
+                    "id": 4769,
+                    "name": "Подсветка зоны уборки",
                     "value": "Да",
-                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                    "nameDescription": null,
                     "valueDescription": null,
-                    "priority": 8,
+                    "priority": 7,
                     "measure": null
                 }
             ],
-            "item_basePrice": 14999,
-            "item_salePrice": 14999,
-            "item_bonus": 450,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v10-white-20075525",
+            "item_basePrice": 18999,
+            "item_salePrice": 18299,
+            "item_bonus": 549,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-u20-400260378",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -1781,217 +1888,6 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "400260378",
-            "name": "Пылесос ручной (handstick) Dreame U20",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-u20",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400260378",
-            "materialSource": "ERP",
-            "modelName": "U20",
-            "rating": {
-                "star": 4.75,
-                "count": 72,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400260378b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400260378.jpg",
-                "Pdb/400260378b.jpg",
-                "Pdb/400260378b1.jpg",
-                "Pdb/400260378b10.jpg",
-                "Pdb/400260378b101.jpg",
-                "Pdb/400260378b11.jpg",
-                "Pdb/400260378b12.jpg",
-                "Pdb/400260378b2.jpg",
-                "Pdb/400260378b3.jpg",
-                "Pdb/400260378b4.jpg",
-                "Pdb/400260378b5.jpg",
-                "Pdb/400260378b6.jpg",
-                "Pdb/400260378b7.jpg",
-                "Pdb/400260378b8.jpg",
-                "Pdb/400260378b9.jpg",
-                "Pdb/400260378s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 649,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "140",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Вт"
-                },
-                {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "60",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.5",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "3",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 4769,
-                    "name": "Подсветка зоны уборки",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 7,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 18999,
-            "item_salePrice": 18299,
-            "item_bonus": 549,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-u20-400260378",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
-            "productId": "400355463",
-            "name": "Пылесос ручной (handstick) моющий Dreame H12SAE (HHR14A)",
-            "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12sae-hhr14a",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400355463",
-            "materialSource": "ERP",
-            "modelName": "H12SAE (HHR14A)",
-            "rating": {
-                "star": 4.35,
-                "count": 40,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400355463b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400355463.jpg",
-                "Pdb/400355463b.jpg",
-                "Pdb/400355463b1.jpg",
-                "Pdb/400355463b101.jpg",
-                "Pdb/400355463b2.jpg",
-                "Pdb/400355463b3.jpg",
-                "Pdb/400355463b4.jpg",
-                "Pdb/400355463b5.jpg",
-                "Pdb/400355463b6.jpg",
-                "Pdb/400355463b7.jpg",
-                "Pdb/400355463b8.jpg",
-                "Pdb/400355463b9.jpg",
-                "Pdb/400355463s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.7",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 1546,
-                    "name": "Влажная уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 6,
-                    "measure": null
-                },
-                {
-                    "id": 460,
-                    "name": "Сухая уборка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 11,
-                    "measure": null
-                },
-                {
-                    "id": 452,
-                    "name": "Вертикальная парковка",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 13,
-                    "measure": null
-                },
-                {
-                    "id": 91,
-                    "name": "Вес",
-                    "value": "4.8",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 14,
-                    "measure": "кг"
-                }
-            ],
-            "item_basePrice": 29999,
-            "item_salePrice": 29999,
-            "item_bonus": 900,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-h12sae-hhr14a-400355463",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
             "productId": "400195895",
             "name": "Пылесос ручной (handstick) моющий Dreame H12 Core",
             "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12-core",
@@ -2100,17 +1996,17 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
-            "productId": "400457886",
-            "name": "Пылесос ручной (handstick) Dreame Cordless Vacuum Cleaner Z20 AquaCycle Station (VZV36B)",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-cordless-vacuum-cleaner-z20-aquacycle-station-vzv36b",
+            "productId": "400355463",
+            "name": "Пылесос ручной (handstick) моющий Dreame H12SAE (HHR14A)",
+            "nameTranslit": "pylesos-ruchnoi-handstick-moushhii-dreame-h12sae-hhr14a",
             "productType": "BT",
             "usedProductType": null,
-            "materialCisNumber": "400457886",
+            "materialCisNumber": "400355463",
             "materialSource": "ERP",
-            "modelName": "Cordless Vacuum Cleaner Z20 AquaCycle Station (VZ",
+            "modelName": "H12SAE (HHR14A)",
             "rating": {
-                "star": 5,
-                "count": 6,
+                "star": 4.35,
+                "count": 40,
                 "percent": null
             },
             "supplier": null,
@@ -2119,7 +2015,7 @@
             "saleLegal": true,
             "isMprimeSubscription": false,
             "isPreorder": false,
-            "image": "Pdb/small_pic/480/400457886b.jpg",
+            "image": "Pdb/small_pic/480/400355463b.jpg",
             "brandId": "7644",
             "brandName": "Dreame",
             "status": {
@@ -2135,55 +2031,29 @@
             },
             "properties": null,
             "images": [
-                "Pdb/400457886.jpg",
-                "Pdb/400457886b.jpg",
-                "Pdb/400457886b1.jpg",
-                "Pdb/400457886b101.jpg",
-                "Pdb/400457886b2.jpg",
-                "Pdb/400457886b3.jpg",
-                "Pdb/400457886b4.jpg",
-                "Pdb/400457886b5.jpg",
-                "Pdb/400457886b6.jpg",
-                "Pdb/400457886b7.jpg",
-                "Pdb/400457886b8.jpg",
-                "Pdb/400457886s.jpg"
+                "Pdb/400355463.jpg",
+                "Pdb/400355463b.jpg",
+                "Pdb/400355463b1.jpg",
+                "Pdb/400355463b101.jpg",
+                "Pdb/400355463b2.jpg",
+                "Pdb/400355463b3.jpg",
+                "Pdb/400355463b4.jpg",
+                "Pdb/400355463b5.jpg",
+                "Pdb/400355463b6.jpg",
+                "Pdb/400355463b7.jpg",
+                "Pdb/400355463b8.jpg",
+                "Pdb/400355463b9.jpg",
+                "Pdb/400355463s.jpg"
             ],
             "propertiesPortion": [
                 {
-                    "id": 649,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "250",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Вт"
-                },
-                {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "90",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
                     "id": 455,
                     "name": "Объем контейнера для пыли",
-                    "value": "600",
+                    "value": "0.7",
                     "nameDescription": null,
                     "valueDescription": null,
                     "priority": 4,
                     "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "4",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
                 },
                 {
                     "id": 1546,
@@ -2192,100 +2062,6 @@
                     "nameDescription": null,
                     "valueDescription": null,
                     "priority": 6,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 74999,
-            "item_salePrice": 74999,
-            "item_bonus": 2250,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-cordless-vacuum-cleaner-z20-aquacycle-station-vzv36b-400457886",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
-            "productId": "400043187",
-            "name": "Пылесос ручной (handstick) Dreame V12 PRO",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v12-pro",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400043187",
-            "materialSource": "ERP",
-            "modelName": "V12 PRO",
-            "rating": {
-                "star": 5,
-                "count": 20,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400043187b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400043187.jpg",
-                "Pdb/400043187b.jpg",
-                "Pdb/400043187b1.jpg",
-                "Pdb/400043187b101.jpg",
-                "Pdb/400043187b2.jpg",
-                "Pdb/400043187b3.jpg",
-                "Pdb/400043187b4.jpg",
-                "Pdb/400043187b5.jpg",
-                "Pdb/400043187b6.jpg",
-                "Pdb/400043187b7.jpg",
-                "Pdb/400043187b8.jpg",
-                "Pdb/400043187s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.5",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "4",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 4769,
-                    "name": "Подсветка зоны уборки",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 7,
-                    "measure": null
-                },
-                {
-                    "id": 703,
-                    "name": "Циклоническая система",
-                    "value": "Да",
-                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
-                    "valueDescription": null,
-                    "priority": 8,
                     "measure": null
                 },
                 {
@@ -2296,112 +2072,30 @@
                     "valueDescription": null,
                     "priority": 11,
                     "measure": null
-                }
-            ],
-            "item_basePrice": 36999,
-            "item_salePrice": 36999,
-            "item_bonus": 1110,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v12-pro-400043187",
-            "category_id": "3088",
-            "category_name": "vertikalnye-pylesosy"
-        },
-        {
-            "productId": "20082719",
-            "name": "Пылесос ручной (handstick) Dreame V11 Grey",
-            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-grey",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "20082719",
-            "materialSource": "ERP",
-            "modelName": "Cordless Vacuum Cleaner V11 Grey",
-            "rating": {
-                "star": 4.9,
-                "count": 140,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/20082719b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "3088",
-                "name": "Пылесосы вертикальные"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/20082719.jpg",
-                "Pdb/20082719b.jpg",
-                "Pdb/20082719b1.jpg",
-                "Pdb/20082719b101.jpg",
-                "Pdb/20082719b2.jpg",
-                "Pdb/20082719b3.jpg",
-                "Pdb/20082719b4.jpg",
-                "Pdb/20082719b5.jpg",
-                "Pdb/20082719s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 649,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "150",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Вт"
                 },
                 {
-                    "id": 612334,
-                    "name": "Время работы от аккумулятора до",
-                    "value": "60",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": "мин"
-                },
-                {
-                    "id": 455,
-                    "name": "Объем контейнера для пыли",
-                    "value": "0.5",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": "л"
-                },
-                {
-                    "id": 508,
-                    "name": "Количество режимов работы",
-                    "value": "3",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                },
-                {
-                    "id": 703,
-                    "name": "Циклоническая система",
+                    "id": 452,
+                    "name": "Вертикальная парковка",
                     "value": "Да",
-                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                    "nameDescription": null,
                     "valueDescription": null,
-                    "priority": 8,
+                    "priority": 13,
                     "measure": null
+                },
+                {
+                    "id": 91,
+                    "name": "Вес",
+                    "value": "4.8",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 14,
+                    "measure": "кг"
                 }
             ],
-            "item_basePrice": 21999,
-            "item_salePrice": 19999,
-            "item_bonus": 600,
-            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v11-grey-20082719",
+            "item_basePrice": 29999,
+            "item_salePrice": 29999,
+            "item_bonus": 900,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-h12sae-hhr14a-400355463",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -2503,6 +2197,106 @@
             "item_salePrice": 34999,
             "item_bonus": 1050,
             "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-moushhii-dreame-h12-pro-400104200",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
+            "productId": "20082719",
+            "name": "Пылесос ручной (handstick) Dreame V11 Grey",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v11-grey",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "20082719",
+            "materialSource": "ERP",
+            "modelName": "Cordless Vacuum Cleaner V11 Grey",
+            "rating": {
+                "star": 4.9,
+                "count": 140,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/20082719b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/20082719.jpg",
+                "Pdb/20082719b.jpg",
+                "Pdb/20082719b1.jpg",
+                "Pdb/20082719b101.jpg",
+                "Pdb/20082719b2.jpg",
+                "Pdb/20082719b3.jpg",
+                "Pdb/20082719b4.jpg",
+                "Pdb/20082719b5.jpg",
+                "Pdb/20082719s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 649,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "150",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "60",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "3",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 703,
+                    "name": "Циклоническая система",
+                    "value": "Да",
+                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 21999,
+            "item_salePrice": 19999,
+            "item_bonus": 600,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v11-grey-20082719",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -2614,6 +2408,109 @@
             "category_name": "vertikalnye-pylesosy"
         },
         {
+            "productId": "400457886",
+            "name": "Пылесос ручной (handstick) Dreame Cordless Vacuum Cleaner Z20 AquaCycle Station (VZV36B)",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-cordless-vacuum-cleaner-z20-aquacycle-station-vzv36b",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400457886",
+            "materialSource": "ERP",
+            "modelName": "Cordless Vacuum Cleaner Z20 AquaCycle Station (VZ",
+            "rating": {
+                "star": 5,
+                "count": 6,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400457886b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400457886.jpg",
+                "Pdb/400457886b.jpg",
+                "Pdb/400457886b1.jpg",
+                "Pdb/400457886b101.jpg",
+                "Pdb/400457886b2.jpg",
+                "Pdb/400457886b3.jpg",
+                "Pdb/400457886b4.jpg",
+                "Pdb/400457886b5.jpg",
+                "Pdb/400457886b6.jpg",
+                "Pdb/400457886b7.jpg",
+                "Pdb/400457886b8.jpg",
+                "Pdb/400457886s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 649,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "250",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Вт"
+                },
+                {
+                    "id": 612334,
+                    "name": "Время работы от аккумулятора до",
+                    "value": "90",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": "мин"
+                },
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "600",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 1546,
+                    "name": "Влажная уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 74999,
+            "item_salePrice": 74999,
+            "item_bonus": 2250,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-cordless-vacuum-cleaner-z20-aquacycle-station-vzv36b-400457886",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
             "productId": "400376370",
             "name": "Пылесос ручной (handstick) Dreame R20 Aqua",
             "nameTranslit": "pylesos-ruchnoi-handstick-dreame-r20-aqua",
@@ -2717,6 +2614,109 @@
             "item_salePrice": 39299,
             "item_bonus": 1179,
             "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-r20-aqua-400376370",
+            "category_id": "3088",
+            "category_name": "vertikalnye-pylesosy"
+        },
+        {
+            "productId": "400043187",
+            "name": "Пылесос ручной (handstick) Dreame V12 PRO",
+            "nameTranslit": "pylesos-ruchnoi-handstick-dreame-v12-pro",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400043187",
+            "materialSource": "ERP",
+            "modelName": "V12 PRO",
+            "rating": {
+                "star": 5,
+                "count": 20,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400043187b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "3088",
+                "name": "Пылесосы вертикальные"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400043187.jpg",
+                "Pdb/400043187b.jpg",
+                "Pdb/400043187b1.jpg",
+                "Pdb/400043187b101.jpg",
+                "Pdb/400043187b2.jpg",
+                "Pdb/400043187b3.jpg",
+                "Pdb/400043187b4.jpg",
+                "Pdb/400043187b5.jpg",
+                "Pdb/400043187b6.jpg",
+                "Pdb/400043187b7.jpg",
+                "Pdb/400043187b8.jpg",
+                "Pdb/400043187s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 455,
+                    "name": "Объем контейнера для пыли",
+                    "value": "0.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": "л"
+                },
+                {
+                    "id": 508,
+                    "name": "Количество режимов работы",
+                    "value": "4",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": null
+                },
+                {
+                    "id": 4769,
+                    "name": "Подсветка зоны уборки",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 7,
+                    "measure": null
+                },
+                {
+                    "id": 703,
+                    "name": "Циклоническая система",
+                    "value": "Да",
+                    "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                    "valueDescription": null,
+                    "priority": 8,
+                    "measure": null
+                },
+                {
+                    "id": 460,
+                    "name": "Сухая уборка",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 11,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 36999,
+            "item_salePrice": 36999,
+            "item_bonus": 1110,
+            "item_link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-dreame-v12-pro-400043187",
             "category_id": "3088",
             "category_name": "vertikalnye-pylesosy"
         },
@@ -3674,5 +3674,5 @@
             "category_name": "vertikalnye-pylesosy"
         }
     ],
-    "generated_at": "2025-07-25T03:58:02.542036"
+    "generated_at": "2025-07-26T03:55:38.001819"
 }

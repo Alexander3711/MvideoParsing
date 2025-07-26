@@ -1,5 +1,5 @@
 {
-    "total_products": 26,
+    "total_products": 27,
     "category_id": "36410",
     "category_name": "roboty-pylesosy",
     "products": [
@@ -528,6 +528,109 @@
             "category_name": "roboty-pylesosy"
         },
         {
+            "productId": "400344392",
+            "name": "Робот-пылесос Dreame DreameBot D9MaxGen2 White",
+            "nameTranslit": "robot-pylesos-dreame-dreamebot-d9maxgen2-white",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400344392",
+            "materialSource": "ERP",
+            "modelName": "DreameBot D9MaxGen2 White",
+            "rating": {
+                "star": 4.7,
+                "count": 72,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400344392b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "2457",
+                "name": "Роботы-пылесосы с влажной уборкой"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400344392.jpg",
+                "Pdb/400344392b.jpg",
+                "Pdb/400344392b1.jpg",
+                "Pdb/400344392b101.jpg",
+                "Pdb/400344392b2.jpg",
+                "Pdb/400344392b3.jpg",
+                "Pdb/400344392b4.jpg",
+                "Pdb/400344392b5.jpg",
+                "Pdb/400344392b6.jpg",
+                "Pdb/400344392b7.jpg",
+                "Pdb/400344392b8.jpg",
+                "Pdb/400344392s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 623511,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "6000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Па"
+                },
+                {
+                    "id": 3261,
+                    "name": "Составление плана помещения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 624783,
+                    "name": "Голосовой помощник",
+                    "value": "Alexa",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 626187,
+                    "name": "Ориентация в пространстве",
+                    "value": "гироскоп, камера, лазерный, сенсорный бампер",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 3259,
+                    "name": "Датчик определения ступенек",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 24999,
+            "item_salePrice": 17999,
+            "item_bonus": 540,
+            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-dreamebot-d9maxgen2-white-400344392",
+            "category_id": "36410",
+            "category_name": "roboty-pylesosy"
+        },
+        {
             "productId": "400162759",
             "name": "Робот-пылесос Dreame F9 Pro White",
             "nameTranslit": "robot-pylesos-dreame-f9-pro-white",
@@ -636,17 +739,17 @@
             "category_name": "roboty-pylesosy"
         },
         {
-            "productId": "400344392",
-            "name": "Робот-пылесос Dreame DreameBot D9MaxGen2 White",
-            "nameTranslit": "robot-pylesos-dreame-dreamebot-d9maxgen2-white",
+            "productId": "400455205",
+            "name": "Робот-пылесос для мытья полов Dreame X50 Ultra Complete Bl (RLX85CE-4)",
+            "nameTranslit": "robot-pylesos-dlya-mytya-polov-dreame-x50-ultra-complete-bl-rlx85ce-4",
             "productType": "BT",
             "usedProductType": null,
-            "materialCisNumber": "400344392",
+            "materialCisNumber": "400455205",
             "materialSource": "ERP",
-            "modelName": "DreameBot D9MaxGen2 White",
+            "modelName": "X50 Ultra Complete Bl (RLX85CE-4)",
             "rating": {
-                "star": 4.7,
-                "count": 72,
+                "star": 5,
+                "count": 12,
                 "percent": null
             },
             "supplier": null,
@@ -655,7 +758,7 @@
             "saleLegal": true,
             "isMprimeSubscription": false,
             "isPreorder": false,
-            "image": "Pdb/small_pic/480/400344392b.jpg",
+            "image": "Pdb/small_pic/480/400455205b.jpg",
             "brandId": "7644",
             "brandName": "Dreame",
             "status": {
@@ -666,29 +769,32 @@
                 "isCannotBeExchanged": false
             },
             "category": {
-                "id": "2457",
-                "name": "Роботы-пылесосы с влажной уборкой"
+                "id": "36415",
+                "name": "Роботы-пылесосы с влажной уборкой и станцией с пылесборником и водой"
             },
             "properties": null,
             "images": [
-                "Pdb/400344392.jpg",
-                "Pdb/400344392b.jpg",
-                "Pdb/400344392b1.jpg",
-                "Pdb/400344392b101.jpg",
-                "Pdb/400344392b2.jpg",
-                "Pdb/400344392b3.jpg",
-                "Pdb/400344392b4.jpg",
-                "Pdb/400344392b5.jpg",
-                "Pdb/400344392b6.jpg",
-                "Pdb/400344392b7.jpg",
-                "Pdb/400344392b8.jpg",
-                "Pdb/400344392s.jpg"
+                "Pdb/400455205.jpg",
+                "Pdb/400455205b.jpg",
+                "Pdb/400455205b1.jpg",
+                "Pdb/400455205b10.jpg",
+                "Pdb/400455205b11.jpg",
+                "Pdb/400455205b12.jpg",
+                "Pdb/400455205b2.jpg",
+                "Pdb/400455205b3.jpg",
+                "Pdb/400455205b4.jpg",
+                "Pdb/400455205b5.jpg",
+                "Pdb/400455205b6.jpg",
+                "Pdb/400455205b7.jpg",
+                "Pdb/400455205b8.jpg",
+                "Pdb/400455205b9.jpg",
+                "Pdb/400455205s.jpg"
             ],
             "propertiesPortion": [
                 {
                     "id": 623511,
                     "name": "Максимальная мощность всасывания",
-                    "value": "6000",
+                    "value": "20000",
                     "nameDescription": null,
                     "valueDescription": null,
                     "priority": 1,
@@ -706,7 +812,7 @@
                 {
                     "id": 624783,
                     "name": "Голосовой помощник",
-                    "value": "Alexa",
+                    "value": "Google, Siri, Алиса, Маруся, Салют",
                     "nameDescription": null,
                     "valueDescription": null,
                     "priority": 3,
@@ -715,7 +821,7 @@
                 {
                     "id": 626187,
                     "name": "Ориентация в пространстве",
-                    "value": "гироскоп, камера, лазерный, сенсорный бампер",
+                    "value": "гироскоп, инфракрасный, камера, лазерный, лидар, оптический, сенсорный бампер, ультразвуковой",
                     "nameDescription": null,
                     "valueDescription": null,
                     "priority": 4,
@@ -727,14 +833,14 @@
                     "value": "Да",
                     "nameDescription": null,
                     "valueDescription": null,
-                    "priority": 6,
+                    "priority": 5,
                     "measure": null
                 }
             ],
-            "item_basePrice": 24999,
-            "item_salePrice": 17999,
-            "item_bonus": 540,
-            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-dreamebot-d9maxgen2-white-400344392",
+            "item_basePrice": 139999,
+            "item_salePrice": 139999,
+            "item_bonus": 4200,
+            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dlya-mytya-polov-dreame-x50-ultra-complete-bl-rlx85ce-4-400455205",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
         },
@@ -838,112 +944,6 @@
             "item_salePrice": 39999,
             "item_bonus": 1200,
             "item_link": "https://www.mvideo.ru/products/robot-pylesos-s-bazoi-ochistki-dreame-l10-prime-rll11gc-400197036",
-            "category_id": "36410",
-            "category_name": "roboty-pylesosy"
-        },
-        {
-            "productId": "400455205",
-            "name": "Робот-пылесос для мытья полов Dreame X50 Ultra Complete Bl (RLX85CE-4)",
-            "nameTranslit": "robot-pylesos-dlya-mytya-polov-dreame-x50-ultra-complete-bl-rlx85ce-4",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400455205",
-            "materialSource": "ERP",
-            "modelName": "X50 Ultra Complete Bl (RLX85CE-4)",
-            "rating": {
-                "star": 5,
-                "count": 12,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400455205b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "36415",
-                "name": "Роботы-пылесосы с влажной уборкой и станцией с пылесборником и водой"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400455205.jpg",
-                "Pdb/400455205b.jpg",
-                "Pdb/400455205b1.jpg",
-                "Pdb/400455205b10.jpg",
-                "Pdb/400455205b11.jpg",
-                "Pdb/400455205b12.jpg",
-                "Pdb/400455205b2.jpg",
-                "Pdb/400455205b3.jpg",
-                "Pdb/400455205b4.jpg",
-                "Pdb/400455205b5.jpg",
-                "Pdb/400455205b6.jpg",
-                "Pdb/400455205b7.jpg",
-                "Pdb/400455205b8.jpg",
-                "Pdb/400455205b9.jpg",
-                "Pdb/400455205s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 623511,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "20000",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Па"
-                },
-                {
-                    "id": 3261,
-                    "name": "Составление плана помещения",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 2,
-                    "measure": null
-                },
-                {
-                    "id": 624783,
-                    "name": "Голосовой помощник",
-                    "value": "Google, Siri, Алиса, Маруся, Салют",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": null
-                },
-                {
-                    "id": 626187,
-                    "name": "Ориентация в пространстве",
-                    "value": "гироскоп, инфракрасный, камера, лазерный, лидар, оптический, сенсорный бампер, ультразвуковой",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": null
-                },
-                {
-                    "id": 3259,
-                    "name": "Датчик определения ступенек",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 5,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 139999,
-            "item_salePrice": 139999,
-            "item_bonus": 4200,
-            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dlya-mytya-polov-dreame-x50-ultra-complete-bl-rlx85ce-4-400455205",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
         },
@@ -1573,107 +1573,6 @@
             "category_name": "roboty-pylesosy"
         },
         {
-            "productId": "400104197",
-            "name": "Робот-пылесос Dreame D10s White",
-            "nameTranslit": "robot-pylesos-dreame-d10s-white",
-            "productType": "BT",
-            "usedProductType": null,
-            "materialCisNumber": "400104197",
-            "materialSource": "ERP",
-            "modelName": "D10s",
-            "rating": {
-                "star": 4.85,
-                "count": 45,
-                "percent": null
-            },
-            "supplier": null,
-            "vendorCatalog": null,
-            "sublicense": false,
-            "saleLegal": true,
-            "isMprimeSubscription": false,
-            "isPreorder": false,
-            "image": "Pdb/small_pic/480/400104197b.jpg",
-            "brandId": "7644",
-            "brandName": "Dreame",
-            "status": {
-                "showCase": false,
-                "availableOnlyInRetailStore": false,
-                "soldOut": false,
-                "isPrepayment": false,
-                "isCannotBeExchanged": false
-            },
-            "category": {
-                "id": "2457",
-                "name": "Роботы-пылесосы с влажной уборкой"
-            },
-            "properties": null,
-            "images": [
-                "Pdb/400104197.jpg",
-                "Pdb/400104197b.jpg",
-                "Pdb/400104197b1.jpg",
-                "Pdb/400104197b101.jpg",
-                "Pdb/400104197b2.jpg",
-                "Pdb/400104197b3.jpg",
-                "Pdb/400104197b4.jpg",
-                "Pdb/400104197b5.jpg",
-                "Pdb/400104197b6.jpg",
-                "Pdb/400104197s.jpg"
-            ],
-            "propertiesPortion": [
-                {
-                    "id": 623511,
-                    "name": "Максимальная мощность всасывания",
-                    "value": "5000",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 1,
-                    "measure": "Па"
-                },
-                {
-                    "id": 3261,
-                    "name": "Составление плана помещения",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 2,
-                    "measure": null
-                },
-                {
-                    "id": 624783,
-                    "name": "Голосовой помощник",
-                    "value": "Alexa, Google, Siri, Алиса",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 3,
-                    "measure": null
-                },
-                {
-                    "id": 626187,
-                    "name": "Ориентация в пространстве",
-                    "value": "лазерный, лидар",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 4,
-                    "measure": null
-                },
-                {
-                    "id": 3259,
-                    "name": "Датчик определения ступенек",
-                    "value": "Да",
-                    "nameDescription": null,
-                    "valueDescription": null,
-                    "priority": 6,
-                    "measure": null
-                }
-            ],
-            "item_basePrice": 29999,
-            "item_salePrice": 19999,
-            "item_bonus": 600,
-            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-d10s-white-400104197",
-            "category_id": "36410",
-            "category_name": "roboty-pylesosy"
-        },
-        {
             "productId": "400455206",
             "name": "Робот-пылесос для мытья полов Dreame X50 Master (RLX86CE-1)",
             "nameTranslit": "robot-pylesos-dlya-mytya-polov-dreame-x50-master-rlx86ce-1",
@@ -1774,6 +1673,107 @@
             "item_salePrice": 159999,
             "item_bonus": 4800,
             "item_link": "https://www.mvideo.ru/products/robot-pylesos-dlya-mytya-polov-dreame-x50-master-rlx86ce-1-400455206",
+            "category_id": "36410",
+            "category_name": "roboty-pylesosy"
+        },
+        {
+            "productId": "400104197",
+            "name": "Робот-пылесос Dreame D10s White",
+            "nameTranslit": "robot-pylesos-dreame-d10s-white",
+            "productType": "BT",
+            "usedProductType": null,
+            "materialCisNumber": "400104197",
+            "materialSource": "ERP",
+            "modelName": "D10s",
+            "rating": {
+                "star": 4.85,
+                "count": 45,
+                "percent": null
+            },
+            "supplier": null,
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": true,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400104197b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": false,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": false,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "2457",
+                "name": "Роботы-пылесосы с влажной уборкой"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400104197.jpg",
+                "Pdb/400104197b.jpg",
+                "Pdb/400104197b1.jpg",
+                "Pdb/400104197b101.jpg",
+                "Pdb/400104197b2.jpg",
+                "Pdb/400104197b3.jpg",
+                "Pdb/400104197b4.jpg",
+                "Pdb/400104197b5.jpg",
+                "Pdb/400104197b6.jpg",
+                "Pdb/400104197s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 623511,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "5000",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Па"
+                },
+                {
+                    "id": 3261,
+                    "name": "Составление плана помещения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 624783,
+                    "name": "Голосовой помощник",
+                    "value": "Alexa, Google, Siri, Алиса",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 626187,
+                    "name": "Ориентация в пространстве",
+                    "value": "лазерный, лидар",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 3259,
+                    "name": "Датчик определения ступенек",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 6,
+                    "measure": null
+                }
+            ],
+            "item_basePrice": 29999,
+            "item_salePrice": 19999,
+            "item_bonus": 600,
+            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-d10s-white-400104197",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
         },
@@ -1996,9 +1996,9 @@
                     "measure": "л"
                 }
             ],
-            "item_basePrice": 47799,
-            "item_salePrice": 47799,
-            "item_bonus": 1434,
+            "item_basePrice": 49199,
+            "item_salePrice": 49199,
+            "item_bonus": 1476,
             "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-bot-l10s-plus-white-400353518",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
@@ -2753,7 +2753,122 @@
             "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-d10-plus-400400631",
             "category_id": "36410",
             "category_name": "roboty-pylesosy"
+        },
+        {
+            "productId": "400404820",
+            "name": "Робот-пылесос Dreame D9 Plus White",
+            "nameTranslit": "robot-pylesos-dreame-d9-plus-white",
+            "productType": "ZCON",
+            "usedProductType": null,
+            "materialCisNumber": "400404820",
+            "materialSource": "shelf",
+            "modelName": "D9 Plus White",
+            "rating": {
+                "star": 5,
+                "count": 1,
+                "percent": null
+            },
+            "supplier": {
+                "id": "K000063084",
+                "name": "ООО \"ОПТИМА\"",
+                "address": "129626, Москва, 2-я Мытищинская улица, 2с1",
+                "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                "ogrn": "1077746250900",
+                "inn": "7717579708",
+                "phone": "+74952805050"
+            },
+            "vendorCatalog": null,
+            "sublicense": false,
+            "saleLegal": false,
+            "isMprimeSubscription": false,
+            "isPreorder": false,
+            "image": "Pdb/small_pic/480/400404820b.jpg",
+            "brandId": "7644",
+            "brandName": "Dreame",
+            "status": {
+                "showCase": true,
+                "availableOnlyInRetailStore": false,
+                "soldOut": false,
+                "isPrepayment": true,
+                "isCannotBeExchanged": false
+            },
+            "category": {
+                "id": "36414",
+                "name": "Роботы-пылесосы с влажной уборкой и станцией с пылесборником"
+            },
+            "properties": null,
+            "images": [
+                "Pdb/400404820.jpg",
+                "Pdb/400404820b.jpg",
+                "Pdb/400404820b1.jpg",
+                "Pdb/400404820b10.jpg",
+                "Pdb/400404820b11.jpg",
+                "Pdb/400404820b12.jpg",
+                "Pdb/400404820b13.jpg",
+                "Pdb/400404820b2.jpg",
+                "Pdb/400404820b3.jpg",
+                "Pdb/400404820b4.jpg",
+                "Pdb/400404820b5.jpg",
+                "Pdb/400404820b6.jpg",
+                "Pdb/400404820b7.jpg",
+                "Pdb/400404820b8.jpg",
+                "Pdb/400404820b9.jpg",
+                "Pdb/400404820s.jpg"
+            ],
+            "propertiesPortion": [
+                {
+                    "id": 623511,
+                    "name": "Максимальная мощность всасывания",
+                    "value": "2500",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 1,
+                    "measure": "Па"
+                },
+                {
+                    "id": 3261,
+                    "name": "Составление плана помещения",
+                    "value": "Да",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 2,
+                    "measure": null
+                },
+                {
+                    "id": 624783,
+                    "name": "Голосовой помощник",
+                    "value": "Alexa, Siri, Алиса",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 3,
+                    "measure": null
+                },
+                {
+                    "id": 626187,
+                    "name": "Ориентация в пространстве",
+                    "value": "инфракрасный, камера, лазерный, лидар, сенсорный бампер",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 4,
+                    "measure": null
+                },
+                {
+                    "id": 3984,
+                    "name": "Емкость контейнера",
+                    "value": "2.5",
+                    "nameDescription": null,
+                    "valueDescription": null,
+                    "priority": 5,
+                    "measure": "л"
+                }
+            ],
+            "item_basePrice": 29590,
+            "item_salePrice": 29590,
+            "item_bonus": 888,
+            "item_link": "https://www.mvideo.ru/products/robot-pylesos-dreame-d9-plus-white-400404820",
+            "category_id": "36410",
+            "category_name": "roboty-pylesosy"
         }
     ],
-    "generated_at": "2025-07-25T03:57:58.769803"
+    "generated_at": "2025-07-26T03:55:34.010598"
 }
